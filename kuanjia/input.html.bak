@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+		<h1>中国</h1>
+		<h2>中国</h2>
+		<h3>中国</h3>
+		<h4>中国</h4>
+		<h5>中国</h5>
+		<h6>中国</h6>
+
+	<img src="1.jpg" width="500" height="500"></img>
+	<a href="01-排版标签.html">跳转</a>
+	<iframe width="500" height="350"></iframe>
+ </body>
+</html>

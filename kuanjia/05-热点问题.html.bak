@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>热点问题</title>
+ </head>
+ <body>
+	<!-- 
+		热点问题：就是指对图片的局部区域加超链
+	-->
+       <img src="images/1.jpg" width="300" height="300" usemap="#Map" border="0" />
+		<map name="Map" id="Map">
+		  <area shape="circle" coords="109,68,28" href="01-排版标签.html" />
+		</map>
+ </body>
+</html>
