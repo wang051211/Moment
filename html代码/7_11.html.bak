@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  
+  <link rel="stylesheet" type="text/css" herf="d:\qing.css"></link>
+  
+  <title>Document</title>
+ 
+ <style type="text/css">
+ div{
+     color:red;
+
+  }
+
+  #wang{
+      border:1px solid blue;
+  }
+  
+  .wang{
+     border:1px solid blue;
+  
+  }     
+
+/*  div,wang,#wang{
+     color:red;
+     border:1px solid blue;
+  }    */
+  h3 b i{
+    color:red;
+  }
+  a:link{
+    color:red;
+  }
+  a:visited{
+    color:blue;
+  }
+  
+  input:onfocus{
+     border:1px solid red;
+	 color:green;
+	 background-color:#ccff66;
+  
+ }
+
+ #:active{
+   color:blue;
+ }
+
+div:hover{
+  cursor:pointer;
+}
+
+table td{
+  border:1px solid blue;
+}
+table tr:hover{
+  background-color:#00ff33;
+}
+
+
+  </style>
+
+
+ </head>
+ <body>
+  
+  <div style=color:red>呵呵呵</div>
+  <div id="wang">呵呵呵</div>
+  <div class="wang">呵呵呵</div>
+  <div>呵呵呵</div>
+
+  <p>呵呵呵</p>
+  <p>呵呵呵呵</p>
+  <p>呵呵呵呵呵</p>
+  <p>呵呵呵呵呵呵</p>
+  
+  <h1>呵呵呵呵呵呵呵<h1>
+
+  <h3>萌萌哒~<b>哈哈<i>嘿嘿</i>~神经病</b></h3>
+  <label>热死啦</label><br>
+
+  <a href="http://www.duba.com/?f=webu"style="position:absolute;float:left;font-size:24px;">走吧走吧</a>
+ 
+ <input type="text" style="position:absolute;float:left;margin-left:100px;"/><br>
+  
+  
+  <!--<table style="border:1px solid #ffffff;width:200px;height:20px">
+  <tr>
+  <td></td>
+  </tr>
+  </table>-->
+  <table style="border:3px solid red;width:400px;height:500px;margin-top:40px;">
+  <!--<table border="3px" width="400" height="500"  >-->
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+ </body>
+</html>

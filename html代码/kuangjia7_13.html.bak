@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title> 
+
+   <style type="text/css"> 
+      #div_t1{
+	    border:1px;
+		width:1024px;
+		height:100px;
+	  }
+      #div_t{
+	    border:1px;
+		width:1024px;
+		height:120px;
+	   }
+	   #div_w{
+	    border:1px;
+		width:1024px;
+		height:200px;
+	   }
+	   #div_t2{
+           border:1px;
+		   width:1024px;
+		   height:50px;
+	   }
+	   
+	   #div_t2 ,#div_t3,#div_t4：hover{
+	   
+	     cursor:pointer; 
+	  }
+	  .baidu,.div_t3,.div_t4:hover{
+	  cursor:pointer; 
+	  }
+	  #div_left,#div_right{
+	  border:1px;
+
+	  }
+	  .div_left{
+	     float:left;
+         width:300px;
+		 height:400px;
+	  }
+     .div_right{
+	     float:right
+         width:600px;
+		 height:400px;
+	  }
+     #div_c{
+	   clear:both;
+     }
+	 #div_body{
+	   width:1024px;
+	 }
+   </style>
+
+ </head>
+ <body>
+  <div id="div_body">
+  <div id="div_t1" >
+     <div  style="position:absolute;float:left;margin-left:650px;margin-top:10px;width:50px;height:20px;font-size:15px;font-weight:bold;text-decoration:underline;line-height:50px;text-align:center;">新闻</div>
+    <div     style="position:absolute;float:left;margin-left:700px;margin-top:10px;width:50px;height:20px;font-size:15px;font-weight:bold;text-decoration:underline;line-height:50px;text-align:center;">hao123</div>
+    <div     
+	style="position:absolute;float:left;margin-left:750px;margin-top:10px;width:50px;height:20px;font-size:15px;font-weight:bold;text-decoration:underline;line-height:50px;text-align:center;">地图</div>
+	<div     style="position:absolute;float:left;margin-left:800px;margin-top:10px;width:50px;height:20px;font-size:15px;font-weight:bold;text-decoration:underline;line-height:50px;text-align:center;">视频</div>
+    <div    style="position:absolute;float:left;margin-left:850px;margin-top:10px;width:50px;height:20px;font-size:15px;font-weight:bold;text-decoration:underline;line-height:50px;text-align:center;">贴吧</div>
+	<div    style="position:absolute;float:left;margin-left:900px;margin-top:10px;width:50px;height:20px;font-size:15px;font-weight:bold;text-decoration:underline;line-height:50px;text-align:center;">登录</div>
+    <div    style="position:absolute;float:left;margin-left:950px;margin-top:10px;width:50px;height:20px;font-size:15px;font-weight:bold;text-decoration:underline;line-height:50px;text-align:center;">设置</div>
+
+
+  </div>
+   <div id="div_t" align="center">
+     <img src="d:\Moment大王\皂片\百度.png"></img>
+   </div>
+   <div id="div_t2">
+     <input type="text"  style="position:absolute;float:left;margin-left:300px;width:400px;height:30px;">
+   
+	 <div class="baidu"  style="position:absolute;float:left;font-size:20px;margin-left:705px;width:100px;height:35px;background:#0066ff;line-height:35px;text-align:center;color:white;">百度一下</div>
+
+  </div>
+  
+   <div id="div_main"></div>
+      <div class="div_left" id="div_left"></div>
+      <div class="div_right" id="div_right"></div>
+	  <div id="div_c"></div>
+   <div id="div_w">
+     <div style="position:absolute;float:flet;margin-left:200px;margin-top:160px;width:420px;height:30px;font-size:12px;color:#685e57;line-height:30px;text-align:center;">设为首页 @2015
+     </div>
+	 <a class="div_t3" href="http://www.baidu.com/duty/" style="position:absolute;float:flet;margin-left:300px;margin-top:160px;width:420px;height:30px;font-size:12px;color:#685e57;line-height:30px;text-align:center;"><u>使用百度前必读</u>
+     </a>
+	 <a class="div_t4" href="http://jianyi.baidu.com/" style="position:absolute;float:flet;margin-left:380px;margin-top:160px;width:420px;height:30px;font-size:12px;color:#685e57;line-height:30px;text-align:center;"><u>意见反馈</u>
+     </a>
+	 <div style="position:absolute;float:flet;margin-left:460px;margin-top:160px;width:420px;height:30px;font-size:12px;color:#685e57;line-height:30px;text-align:center;">京ICP证030173号
+     </div>
+	 
+	 <img src="d:\Moment大王\皂片\baidu2.png" style="position:absolute;float:flet;margin-left:715px;margin-top:165px;width:20px;height:20px;font-size:12px;color:#685e57;line-height:30px;text-align:center;"></img>
+	 <div style="position:absolute;float:flet;margin-left:220px;margin-top:130px;width:420px;height:30px;font-size:12px;color:#0033ff;line-height:30px;text-align:center;text-decoration:underline;">把百度设为主页
+     </div>
+     <div style="position:absolute;float:flet;margin-left:300px;margin-top:130px;width:420px;height:30px;font-size:12px;color:#0033ff;line-height:30px;text-align:center;text-decoration:underline;">关于百度
+     </div>
+	 <div style="position:absolute;float:flet;margin-left:370px;margin-top:130px;width:420px;height:30px;font-size:12px;color:#0033ff;line-height:30px;text-align:center;text-decoration:underline;">About baidu
+     </div>
+   </div>
+  </div>
+
+
+ </body>
+</html>
